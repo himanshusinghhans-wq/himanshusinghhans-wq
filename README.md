@@ -24,7 +24,7 @@ Product Roadmapping | User Research & Usability Testing | A/B Testing & Experime
 
 ### Technical Breadth
 
-Product Analytics (Mixpanel, Amplitude) | SQL | Python | Webhook Architecture | Payment Orchestration | API Design & Security | GPU Compute Concepts | Hardware Protocol Analysis | Google Sheets & Notion APIs | Git / GitHub | Vercel Deployment
+Product Analytics (Mixpanel, Amplitude) | SQL | Python | Webhook Architecture | Payment Orchestration | API Design & Security | GPU Compute Concepts | Hardware Protocol Analysis | Google Sheets & Notion APIs | Git / GitHub | Vercel Deployment | **Agent Orchestration & AI-Assisted Development**
 
 ---
 
@@ -39,6 +39,8 @@ Product Analytics (Mixpanel, Amplitude) | SQL | Python | Webhook Architecture | 
 **Face recognition attendance automation** — Python pipeline using dlib encodings to match 34 players from a single group photo. Coordinate-based deduplication, tolerance tuning per player, YAML-driven configuration, and Google Sheets integration for persistent logging. Coach sends one photo, attendance is marked and delivered to Telegram in under 10 seconds.
 
 **AI-assisted brand development** — Used structured prompt engineering across multiple AI tools to develop the complete HSA brand identity: logo design (1,800+ iterations), brand guidelines, color system, typography, and deployment automation. All outputs version-controlled and guided by detailed briefs rather than ad-hoc prompting.
+
+**Agentic workflow orchestration** — AI agents as development executors, not just chat companions. Private repo analysis, architectural concept extraction, code generation, Git operations, and deployment management all directed from a single conversation thread. The profile you're reading was built this way: agent read private repos, identified architectural patterns, wrote the content, and pushed it live. This is the practical application of agentic AI to real development workflows.
 
 ---
 
