@@ -12,45 +12,41 @@
 
 ---
 
-**B2C Product Manager** with deep experience in product strategy, user research, and cross-functional execution. I build products people actually want to use, measure what matters, and iterate fast. Currently exploring how AI is reshaping user behavior, search, and digital commerce.
+B2C Product Manager. I define what to build, figure out how it should work, and make sure it gets built right.
 
-Outside of product, I founded Hans Sports Academy — a community sports academy in Gurugram running basketball, badminton, gym, and archery for 100+ students. It taught me that building a product and building a business share the same rules: listen to your users, measure everything, and fix what's broken.
+Currently exploring how AI is rewriting user behavior, search, and digital commerce. Also founded Hans Sports Academy — a community sports academy in Gurugram running basketball, badminton, gym, and archery for 100+ students.
 
 ---
 
-### What I Know
+### Product & Strategy
 
-**Product & Strategy**
 Product Roadmapping | User Research & Usability Testing | A/B Testing & Experimentation | Data-Driven Decision Making | Agile / Scrum | Stakeholder Management | Go-to-Market Strategy | Competitive Analysis | OKR & KPI Definition
 
-**Technical & Tools**
-Product Analytics (Mixpanel, Amplitude) | SQL | Python (data analysis, automation) | Google Sheets API | Notion API | Web Technologies (HTML, CSS, JavaScript) | API Design | Version Control (Git/GitHub) | No-Code / Low-Code Platforms
+### Technical Breadth
 
-**Domains**
-Consumer Products (B2C) | AI-Powered Applications | EdTech | Sports Technology | Digital Commerce | Community Platforms
+Product Analytics (Mixpanel, Amplitude) | SQL | Python | Webhook Architecture | Payment Orchestration | API Design & Security | GPU Compute Concepts | Hardware Protocol Analysis | Google Sheets & Notion APIs | Git / GitHub | Vercel Deployment
 
 ---
 
-### What I've Built
+### What That Looks Like In Practice
 
-- **Basketball Attendance System** — Face recognition-based attendance for 34 players. Coach sends a group photo, AI marks attendance in Google Sheets, summary delivered via Telegram. Built with Python, dlib, and Google Sheets API.
-- **HSA Subscription Portal** — Auto-pay subscription platform handling recurring payments. Razorpay integration, webhook-driven, connected to Google Sheets for live student tracking.
-- **HSA Landing Page** — Full brand identity for a community sports academy. Navy/gold theme, heat-aware scheduling, summer batch management.
-- **AI Coaching Analysis** — IFBB-based fitness program builder with structured progression, HYROX compatibility, and Google Sheets integration.
+**Payment orchestration system** — Razorpay subscription lifecycle management with webhook-driven architecture. Origin-based security checks, timing-safe signature verification, rate limiting, and honeypot anti-bot measures. Real-time payment events flow through webhooks to Google Sheets for the business side and Telegram for the operations side. One codebase handling subscription activation, recurring charges, failed payments, and cancellations with zero manual intervention.
 
----
+**Hardware USB reverse engineering** — Captured and analyzed raw HID descriptors from a Logitech G502 to build a custom Arduino Leonardo firmware that sits between the mouse and the PC. The device forwards legitimate mouse input while exposing a vendor RawHID channel for software injection commands — all while maintaining the original USB identity to avoid driver conflicts.
 
-### Services
+**GPU-based real-time screen analysis** — HLSL compute shaders running on the GPU for color pattern detection from a DXGI dummy renderer. Config encryption with hardware-bound keys, string obfuscation, and dynamic import resolution. Demonstrates understanding of GPU pipeline, Windows graphics architecture, and defensive coding patterns.
 
-Business Analytics | Application Development | Market Research | Product Marketing | Project Management | Change Management
+**Face recognition attendance automation** — Python pipeline using dlib encodings to match 34 players from a single group photo. Coordinate-based deduplication, tolerance tuning per player, YAML-driven configuration, and Google Sheets integration for persistent logging. Coach sends one photo, attendance is marked and delivered to Telegram in under 10 seconds.
+
+**AI-assisted brand development** — Used structured prompt engineering across multiple AI tools to develop the complete HSA brand identity: logo design (1,800+ iterations), brand guidelines, color system, typography, and deployment automation. All outputs version-controlled and guided by detailed briefs rather than ad-hoc prompting.
 
 ---
 
 ### Currently Seeking
 
-Remote Product Owner, Product Manager, or Business Analyst roles. Open to freelance and full-time opportunities.
+Remote Product Owner, Product Manager, or Business Analyst roles. Open to freelance and full-time.
 
 <div align="center">
   <br>
-  <i>Process matters more than trophies.</i>
+  <sup>Process matters more than trophies.</sup>
 </div>
